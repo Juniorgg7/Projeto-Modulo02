@@ -1,0 +1,8 @@
+[
+    { "nome": "mcdonald's", "cardapio": ["Hamburguer Tradicional - 5,00 R$", "Hamburguer de Frango - 5,50 R$", "Club House 1 carne - 6,00 R$", "Coca Cola lata - 3,00 R$", "Fanta Laranja lata - 3,00 R$", "Milk Shake - 5,00 R$", "Batata Frita balde - 6,00 R$"], "valor": [5, 5.5, 6, 3, 3, 5, 6] },
+    { "nome": "burger king", "cardapio": ["Hamburguer Tradicional - 5,00 R$", "Hamburguer Vegetariano - 8,00 R$", "Club House 1 carne - 6,00 R$", "Coca Cola lata - 3,00 R$", "Fanta Laranja lata - 3,00 R$", "Milk Shake - 6,00 R$", "Batata Frita balde - 7,50 R$"], "valor": [5, 8, 6, 3, 3, 6, 7.5] },
+    { "nome": "Sabor de Frutas", "cardapio": ["Pizza Baiana - 19,00 R$", "Pizza Vegetariana - 25,00 R$", "Pizza House 4 queijos - 22,00 R$", "Coca Cola 2L - 6,00 R$", "Fanta Laranja 2L - 5,00 R$", "Pizza de Calabresa - 20,00 R$", "Pizza de Frango - 15,00 R$"], "valor": [19, 25, 22, 6, 5, 20, 15] },
+    { "nome": "Bambu Sushi", "cardapio": ["Gunkan - 6,90 R$ (2 unidades)", "Niguiri - 2,40 R$ (1 unidade)", "Sashimi - 3,50 R$ (1 unidade)", "Hossomaki - 10,90 R$ (5 unidades)", "Uramaki - 10,90 R$ (5 unidades)"], "valor": [6.9, 2.4, 3.5, 10.9, 10.9] }
+   
+    
+]
